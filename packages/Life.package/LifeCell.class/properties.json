@@ -1,0 +1,14 @@
+{
+	"category" : "Life",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LifeCell",
+	"pools" : [
+		 ],
+	"super" : "SimpleSwitchMorph",
+	"type" : "normal" }

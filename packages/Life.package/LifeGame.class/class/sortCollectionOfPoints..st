@@ -1,0 +1,3 @@
+sorting
+sortCollectionOfPoints: aCollOfPoints
+	^aCollOfPoints asSortedCollection: pointsSortBlock

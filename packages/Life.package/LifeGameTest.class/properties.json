@@ -1,0 +1,14 @@
+{
+	"category" : "Life-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "LifeGameTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

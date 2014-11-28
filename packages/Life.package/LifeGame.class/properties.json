@@ -1,0 +1,16 @@
+{
+	"category" : "Life",
+	"classinstvars" : [
+		"pointsSortBlock" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cells",
+		"rows",
+		"columns" ],
+	"name" : "LifeGame",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

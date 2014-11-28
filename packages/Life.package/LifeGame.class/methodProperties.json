@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"initialize" : "HubertBehaghel 12/28/2013 10:24",
+		"play" : "HubertBehaghel 1/26/2014 20:32",
+		"rows:columns:" : "HubertBehaghel 12/28/2013 16:23",
+		"sortCollectionOfPoints:" : "HubertBehaghel 12/28/2013 10:21" },
+	"instance" : {
+		"at:at:" : "HubertBehaghel 12/28/2013 16:50",
+		"clear" : "HubertBehaghel 1/26/2014 20:31",
+		"columns" : "HubertBehaghel 12/28/2013 16:27",
+		"columns:" : "HubertBehaghel 12/28/2013 16:22",
+		"countAliveNeighboursAt:at:" : "HubertBehaghel 12/28/2013 18:07",
+		"defaultCellsPerSide" : "HubertBehaghel 12/28/2013 16:26",
+		"handleKeystroke:" : "HubertBehaghel 1/23/2014 22:48",
+		"initialize" : "HubertBehaghel 12/29/2013 18:33",
+		"neighboursPositionsAt:at:" : "HubertBehaghel 1/26/2014 18:18",
+		"newCellAt:at:" : "HubertBehaghel 12/29/2013 07:55",
+		"nextGen" : "HubertBehaghel 1/26/2014 19:43",
+		"rows" : "HubertBehaghel 12/28/2013 16:27",
+		"rows:" : "HubertBehaghel 12/28/2013 16:22",
+		"stabilize:" : "HubertBehaghel 1/26/2014 20:22",
+		"step" : "HubertBehaghel 1/26/2014 20:25",
+		"stepTime" : "HubertBehaghel 1/26/2014 20:34" } }
